@@ -20,7 +20,7 @@ class GunungListPage extends StatelessWidget {
           'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mount_Rinjani_Indonesia.jpg/320px-Mount_Rinjani_Indonesia.jpg',
       deskripsi:
           'Gunung Rinjani merupakan gunung tertinggi kedua di Indonesia, dengan ketinggian 3.726 mdpl.',
-      trek: 'Sembalun - Plawangan - Puncak Rinjani',
+      trek: 'Sembalun - Plawangan - Puncak Rinjani.',
       latitude: -8.4167,
       longitude: 116.4667,
     ),
